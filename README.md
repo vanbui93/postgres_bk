@@ -12,7 +12,7 @@ npm start
 Then you can see in the browser with the Welcome screen of React app.
 
 Install Concurrently
-Concurrently: support running multiple processes at the same time, this project we will run Port 3000 (client) and 4000 (server) at the same time.
+Concurrently: support running multiple processes at the same time, this project we will run Port 3000 (client) and 5000 (server) at the same time.
 
 npm install –save concurrently
 Install Axios
