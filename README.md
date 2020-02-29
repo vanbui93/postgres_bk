@@ -29,5 +29,5 @@ body-parser extract the entire body portion of an incoming request stream and ex
 (run on server)
 `npm install body-parser`
 
-Run the app
+Run the server and client
 `npm start`
