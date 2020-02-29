@@ -24,6 +24,8 @@ Axios is a Javascript library used to make HTTP requests from node.js or XMLHttp
 
 Install body-parser
 body-parser extract the entire body portion of an incoming request stream and exposes it on req.body.
+
+(run on server)
 `npm install body-parser`
 
 Run the app
