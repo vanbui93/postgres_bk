@@ -19,7 +19,7 @@ Concurrently: support running multiple processes at the same time, this project 
 Install Axios
 Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser. We need to use Axios to get the data from server.
 
-(run on server)
+(run on client react)
 `npm install -save axios`
 
 
